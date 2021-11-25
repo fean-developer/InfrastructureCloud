@@ -14,7 +14,7 @@
 `vagrant up`  - Ira construir a VM no virtualbox e configurar
 
 #####  Comandos Basicos do vagrant:
-
+```
 `vagrant init`    --  Cria o arquivo principal Vagrantfile
 `vagrant up`      --  Cria e inicia a VM
 `vagrant status`  --  Exibe o status da VM
@@ -24,5 +24,6 @@
 `vagrant provision` --  Rodar o provision (ex: scripts externos, ou interno, etc..)
 `vagrant box list` --  Exibe uma lista de boxes
 
+```
 
 ##### Qualquer duvida me comunicar via email d19sp.developer@gmail.com
