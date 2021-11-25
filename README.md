@@ -7,9 +7,9 @@
 - Vagrant - [Ver documentação](https://www.vagrantup.com/intro)
 - VirtualBox - [Download](https://www.virtualbox.org/)
 
-#### Quando estiver tudo instalado e configurado
+###### Quando estiver tudo instalado e configurado
 
-###### Fazer o clone desse repositorio e rodar o comando
+#### Fazer o clone desse repositorio e rodar o comando
 
 `vagrant up`  - Ira construir a VM no virtualbox e configurar
 
