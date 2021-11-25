@@ -1,6 +1,6 @@
-# InfrastructureCloud
+# Infrastructure and Cloud Architecture
 
-## Especifico academico
+## Especifico academico - Intorduçao ao Vagrant
 
 ###### Para rodar este prjeto devera ter os seguintes items:
 
