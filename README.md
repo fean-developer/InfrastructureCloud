@@ -27,7 +27,7 @@
 ```
 ### Evidência 001 - User root localhost - SGBD - Squel Ace
 
-![ip privado](./private_ip)
+![ip privado](./private_ip.png)
 
 ### Evidência 001 - User root localhost - SGBD - Squel Ace
 
