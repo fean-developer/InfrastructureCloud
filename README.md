@@ -1,6 +1,16 @@
 # Infrastructure and Cloud Architecture
 
-## Especifico academico - Introduçao ao Vagrant
+## Especifico academico - Introduçao ao Vagrant - MBA AS_03
+
+### Equipe C - "Katie Bouman"
+#### Membros que componhem esse trabalho:
+
+- Francisco Edson A Nascimento
+- Beatrz Maciel Costa
+- Janilson Dias de Oliveira
+- Michael Douglas B. Silva
+- Roberto Pires de Oliveira
+- 
 
 ###### Para rodar este projeto devera ter os seguintes items:
 
