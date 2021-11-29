@@ -6,7 +6,7 @@
 #### Membros que componhem esse trabalho:
 
 - Francisco Edson A Nascimento
-- Beatrz Maciel Costa
+- Beatriz Maciel Costa
 - Janilson Dias de Oliveira
 - Michael Douglas B. Silva
 - Roberto Pires de Oliveira
