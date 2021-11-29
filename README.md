@@ -25,11 +25,11 @@
 `vagrant box list` --  Exibe uma lista de boxes
 
 ```
-### Evidência 001 - User root localhost - SGBD - Squel Ace
+### Evidência 001 - User root Private IP - SGBD - Squel Ace
 
 ![ip privado](./private_ip.png)
 
-### Evidência 001 - User root localhost - SGBD - Squel Ace
+### Evidência 002 - User root localhost - SGBD - Squel Ace
 
 ![Acesso local](./localhost_access.png)
 
