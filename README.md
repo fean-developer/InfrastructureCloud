@@ -25,5 +25,10 @@
 `vagrant box list` --  Exibe uma lista de boxes
 
 ```
+### Evidência 001 - User root localhost - SGBD - Squel Ace
+
+![Acesso Localhost](./Captura de Tela 2021-11-29 às 13.11.36.png)
+
+![Acesso IP privado](./Captura de Tela 2021-11-29 às 13.11.36.png)
 
 ##### Qualquer duvida me comunicar via email d19sp.developer@gmail.com
